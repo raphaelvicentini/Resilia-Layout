@@ -1,0 +1,47 @@
+* {
+    margin: 3px;
+    padding: 0;
+    text-align: center;
+    height: 40%;
+
+}
+
+.conteudo1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 50%;
+    background-color: rgba(235, 12, 12, 0.774);
+    padding: 5px;
+    padding-top: 10%;
+}
+
+.conteudo2 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 50%;
+    background-color: rgb(245, 210, 11);
+    padding: 5px;
+    padding-top: 10%;
+}
+
+.conteudo3 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 50%;
+    background-color: rgb(39, 238, 13);
+    padding: 5px;
+    padding-top: 5%;
+}
+
+.conteudo4 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 50%;
+    background-color: rgb(223, 8, 158);
+    padding: 5px;
+    padding-top: 5%;
+}
